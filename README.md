@@ -1,1 +1,1 @@
-# python_juoyter
+# python_jupyter
